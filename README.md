@@ -6,4 +6,5 @@ K-Means clustering for liver cell experiment
 
 ## Data
 Data that support the K-Means clustering
-Data dimension: ~15,000 * 11
+
+Data dimension: ~30,000 * 11
