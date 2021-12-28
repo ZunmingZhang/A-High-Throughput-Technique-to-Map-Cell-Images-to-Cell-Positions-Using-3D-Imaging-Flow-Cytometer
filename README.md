@@ -5,4 +5,5 @@ Code and Data in paper: A High Throughput Technique to Map Cell Images to Cell P
 K-Means clustering for liver cell experiment
 
 ## Data
-Data that used to conduct the K-Means clustering
+Data that support the K-Means clustering
+Data dimension: ~15,000 * 11
